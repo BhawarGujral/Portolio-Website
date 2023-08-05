@@ -41,6 +41,7 @@
 .logo-text {
     margin-left: -1.2rem;
     font-size: 28px;
+    color: black;
 }
 
 .nav-items {
@@ -75,7 +76,7 @@ a {
     position: relative;
     display: flex;
     padding: 5rem;
-    margin: 10rem auto;
+    margin: 0 auto;
     gap: 30px;
 }
 

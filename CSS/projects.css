@@ -44,6 +44,7 @@
 .logo-text {
     margin-left: -1.2rem;
     font-size: 28px;
+    color: black;
 }
 
 .nav-items {
@@ -75,7 +76,6 @@ a {
 }
 
 .project-section {
-    /* background-color: rgb(231, 231, 231); */
     margin-top: 4rem;
 }
 
@@ -99,9 +99,7 @@ a {
 .project-card {
     width: 90%;
     height: 550px;
-    background-image: url(./images/projects/Project1.png);
     background-size: cover;
-    /* background-repeat: no-repeat; */
     position: relative;
     box-shadow: 0px 0px 40px #1f1f1f;
 }
@@ -115,7 +113,6 @@ a {
     bottom: 0;
     background-color: #1f1f1f9a;
     z-index: 0;
-    /* transform: scaleX(1); */
 }
 
 .project-card::before {
@@ -247,7 +244,7 @@ a {
 
 #project4 {
     margin-left: 120px;
-    background-image: url(../images/projects/Project4.png);
+    background-image: url(../images/projects/Project-4.jpg);
 }
 
 @media (max-width:1300px) {
